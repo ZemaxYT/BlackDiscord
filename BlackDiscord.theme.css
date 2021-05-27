@@ -12,7 +12,7 @@
   --app-margin: 8px;
   --app-radius: 8px;
   --app-accent: rgb(149, 0, 255);
-  --app-accent2: rgb(35, 35, 35);
+  --app-accent2: rgb(20, 20, 20);
   --app-accent-text: rgb(255, 255, 255);
   --messages-color: rgb(37, 37, 37);
   --messages-radius: var(--app-radius);
@@ -317,10 +317,6 @@
     background-color: rgb(41, 41, 41);
 }
 
-#app-mount > div.app-1q1i1E > div > div.layers-3iHuyZ.layers-3q14ss > div > div > nav > ul > div.scroller-1Bvpku.none-2Eo-qx.scrollerBase-289Jih {
-    background-color: rgb(26, 25, 25);
-}
-
 #app-mount > div.app-1q1i1E > div > div.layers-3iHuyZ.layers-3q14ss > div:nth-child(2) > div > div > div.sidebarRegion-VFTUkN > div {
     background-color: rgb(26, 25, 25);
 }
@@ -379,3 +375,19 @@
 
 .topic-TCb_qw a {
   color: var(--app-accent); }
+
+#app-mount > div.app-1q1i1E > div > div.layers-3iHuyZ.layers-3q14ss > div > div > div > div > div.sidebar-2K8pFh > section > div.container-3baos1 {
+    background-color: rgb(20, 20, 20);
+}
+
+#ONLINE-tab {
+    background-color: rgb(32, 32, 32);
+}
+
+#ALL-tab {
+    background-color: rgb(32, 32, 32);
+}
+
+#BLOCKED-tab {
+    background-color: rgb(32, 32, 32);
+}
